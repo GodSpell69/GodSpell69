@@ -21,8 +21,6 @@
   <img align="right" width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodSpell69&layout=compact)](https://github.com/anuraghazra/githubreadme-stats" />
 </div>
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=GodSpell69.visitor-badge&left_color=black&right_color=red" />
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
