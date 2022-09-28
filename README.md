@@ -17,8 +17,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="display: inline_block"><br>
-  <img width=400px src="https://github-readme-stats.vercel.app/api?username=GodSpell69&show_icons=true&theme=algolia" />
-  <img align="right" width=370px src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodSpell69&layout=compact)](https://github.com/anuraghazra/githubreadme-stats" />
+  <img width=360px src="https://github-readme-stats.vercel.app/api?username=GodSpell69&show_icons=true&theme=algolia" />
+  <img align="right" width=350px src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodSpell69&layout=compact)](https://github.com/anuraghazra/githubreadme-stats" />
 </div>
 
 <div style="display: inline_block"><br>
