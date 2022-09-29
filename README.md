@@ -25,8 +25,17 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
+---
+> **Was this the afterlife?**
 
-<table align="right">
- <tr><td><a href="README.md"><img src="https://user-images.githubusercontent.com/114358985/192905272-f2dd1998-4135-4c3e-bb37-eca5050bb4e6.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="https://user-images.githubusercontent.com/114358985/192905469-72482eb6-787d-4f0e-af36-8fc5352d0b4c.png" height="13"> Português</a></td></tr>
-</table>
+**I waited for a bit, but the end never came.**
+
+**Maybe I'd just died instantly.**
+
+**Maybe it was already over.**
+
+**No, that couldn't be...**
+
+**Timidly, I peeled my eyes open. An unimaginable vista spread out before me.**
+
+> **It was a world of ice**
