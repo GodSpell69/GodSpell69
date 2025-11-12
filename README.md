@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px height200px alt="godkiller" src="https://github.com/GodSpell69/GodSpell69/blob/c5e359fa3bc801efd9c91320fdf3b32bef35cb1f/ChibiMale.png">
+<img align="right" width=200px height200px alt="godkiller" src="https://github.com/GodSpell69/GodSpell69/blob/70faa0e7d723c437472710cc39fb74a963a5c466/ChibiMaleBlueEyes.png">
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
