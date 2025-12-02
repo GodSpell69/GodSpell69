@@ -14,7 +14,7 @@
 ✔  I’m currently learning 3D web development  <br>
 ✔  I’m creating a portfolio  <br>
 
-<img align="left" width=360px src="https://github-readme-stats.vercel.app/api?username=GodSpell69&show_icons=true&theme=algolia" />
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
