@@ -5,9 +5,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=200px height200px alt="godkiller" src="https://github.com/GodSpell69/GodSpell69/blob/b1b4435a689319d860689deeafd2e66bdb6e0de6/Chibi.png">
+<img align="right" width=200px height200px alt="godkiller" src="5269790848 (1).png">
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 >✔  Pronouns: He/His or GodSpell  <br>
 ✔  I’m a university student  <br>
