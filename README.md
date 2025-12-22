@@ -9,8 +9,8 @@
 
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
->✔  Pronouns: He/His or GodSpell  <br>
-✔  I’m a university student  <br>
+>✔  Pronouns: He/His or IceCodeDev  <br>
+✔  I’m an university student  <br>
 ✔  I’m currently learning 3D web development  <br>
 ✔  I’m creating a portfolio  <br>
 
