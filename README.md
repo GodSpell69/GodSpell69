@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=240px alt="godkiller" src="1766367006928.png">
+<img align="right" width=230px alt="godkiller" src="1766367006928.png">
 
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
